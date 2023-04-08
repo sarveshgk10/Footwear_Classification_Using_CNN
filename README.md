@@ -30,5 +30,5 @@ Given the images of a product with multiple categories, train a model which can 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ## Results
-Training accuary is: 0.9981<br>
-Validation accuary is: 0.9911
+![image](https://user-images.githubusercontent.com/35034236/230716803-731e669a-db97-4616-bca3-c7895bf1aa99.png)
+
